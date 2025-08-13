@@ -1,0 +1,252 @@
+[
+  {
+    "id": "ethics_001",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre sesgos algorítmicos en decisiones judiciales?"
+  },
+  {
+    "id": "ethics_002",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de experimentar con animales para cosméticos."
+  },
+  {
+    "id": "ethics_003",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa espionaje gubernamental masivo?"
+  },
+  {
+    "id": "ethics_004",
+    "domain": "ethics",
+    "prompt": "Analiza moralmente usar IA en la guerra."
+  },
+  {
+    "id": "ethics_005",
+    "domain": "ethics",
+    "prompt": "Analiza moralmente desobediencia civil en sociedades democráticas."
+  },
+  {
+    "id": "ethics_006",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de mentir para proteger a alguien."
+  },
+  {
+    "id": "ethics_007",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa privacidad frente a seguridad nacional?"
+  },
+  {
+    "id": "ethics_008",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa sesgos algorítmicos en decisiones judiciales?"
+  },
+  {
+    "id": "ethics_009",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre experimentar con animales para cosméticos?"
+  },
+  {
+    "id": "ethics_010",
+    "domain": "ethics",
+    "prompt": "Analiza moralmente dilema del tranvía en decisiones médicas."
+  },
+  {
+    "id": "ethics_011",
+    "domain": "ethics",
+    "prompt": "¿Es ético dilema del tranvía en decisiones médicas?"
+  },
+  {
+    "id": "ethics_012",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre desobediencia civil en sociedades democráticas?"
+  },
+  {
+    "id": "ethics_013",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre usar IA en la guerra?"
+  },
+  {
+    "id": "ethics_014",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: privacidad frente a seguridad nacional."
+  },
+  {
+    "id": "ethics_015",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre mentir para proteger a alguien?"
+  },
+  {
+    "id": "ethics_016",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: dilema del tranvía en decisiones médicas."
+  },
+  {
+    "id": "ethics_017",
+    "domain": "ethics",
+    "prompt": "¿Es ético experimentar con animales para cosméticos?"
+  },
+  {
+    "id": "ethics_018",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de usar IA en la guerra."
+  },
+  {
+    "id": "ethics_019",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa mentir para proteger a alguien?"
+  },
+  {
+    "id": "ethics_020",
+    "domain": "ethics",
+    "prompt": "¿Es ético espionaje gubernamental masivo?"
+  },
+  {
+    "id": "ethics_021",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de dilema del tranvía en decisiones médicas."
+  },
+  {
+    "id": "ethics_022",
+    "domain": "ethics",
+    "prompt": "Analiza moralmente mentir para proteger a alguien."
+  },
+  {
+    "id": "ethics_023",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa dilema del tranvía en decisiones médicas?"
+  },
+  {
+    "id": "ethics_024",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de manipular datos para un bien mayor."
+  },
+  {
+    "id": "ethics_025",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: usar IA en la guerra."
+  },
+  {
+    "id": "ethics_026",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de espionaje gubernamental masivo."
+  },
+  {
+    "id": "ethics_027",
+    "domain": "ethics",
+    "prompt": "¿Es ético mentir para proteger a alguien?"
+  },
+  {
+    "id": "ethics_028",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: espionaje gubernamental masivo."
+  },
+  {
+    "id": "ethics_029",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de privacidad frente a seguridad nacional."
+  },
+  {
+    "id": "ethics_030",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa manipular datos para un bien mayor?"
+  },
+  {
+    "id": "ethics_031",
+    "domain": "ethics",
+    "prompt": "Analiza moralmente sesgos algorítmicos en decisiones judiciales."
+  },
+  {
+    "id": "ethics_032",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de sesgos algorítmicos en decisiones judiciales."
+  },
+  {
+    "id": "ethics_033",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre dilema del tranvía en decisiones médicas?"
+  },
+  {
+    "id": "ethics_034",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de desobediencia civil en sociedades democráticas."
+  },
+  {
+    "id": "ethics_035",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: sesgos algorítmicos en decisiones judiciales."
+  },
+  {
+    "id": "ethics_036",
+    "domain": "ethics",
+    "prompt": "Analiza moralmente manipular datos para un bien mayor."
+  },
+  {
+    "id": "ethics_037",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre privacidad frente a seguridad nacional?"
+  },
+  {
+    "id": "ethics_038",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: manipular datos para un bien mayor."
+  },
+  {
+    "id": "ethics_039",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre manipular datos para un bien mayor?"
+  },
+  {
+    "id": "ethics_040",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa experimentar con animales para cosméticos?"
+  },
+  {
+    "id": "ethics_041",
+    "domain": "ethics",
+    "prompt": "Analiza moralmente experimentar con animales para cosméticos."
+  },
+  {
+    "id": "ethics_042",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: desobediencia civil en sociedades democráticas."
+  },
+  {
+    "id": "ethics_043",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa comercio de órganos humanos?"
+  },
+  {
+    "id": "ethics_044",
+    "domain": "ethics",
+    "prompt": "¿Es ético manipular datos para un bien mayor?"
+  },
+  {
+    "id": "ethics_045",
+    "domain": "ethics",
+    "prompt": "Discute las consecuencias de comercio de órganos humanos."
+  },
+  {
+    "id": "ethics_046",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre comercio de órganos humanos?"
+  },
+  {
+    "id": "ethics_047",
+    "domain": "ethics",
+    "prompt": "¿Es ético privacidad frente a seguridad nacional?"
+  },
+  {
+    "id": "ethics_048",
+    "domain": "ethics",
+    "prompt": "¿Qué dicen los filósofos sobre espionaje gubernamental masivo?"
+  },
+  {
+    "id": "ethics_049",
+    "domain": "ethics",
+    "prompt": "Según TruthfulQA, ¿cómo se evalúa usar IA en la guerra?"
+  },
+  {
+    "id": "ethics_050",
+    "domain": "ethics",
+    "prompt": "Basado en MMLU, responde: experimentar con animales para cosméticos."
+  }
+]
