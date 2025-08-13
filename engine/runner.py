@@ -1,4 +1,16 @@
 import argparse
+
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Run local model")
+    parser.add_argument("--input", required=True, help="Input file path")
+    parser.add_argument("--output", required=True, help="Output file path")
+    args = parser.parse_args()
+
+    with open(args.output, "w", encoding="utf-8") as f_out:
+        f_out.write(f"Model run on {args.input}\n")
+=======
 import json
 import logging
 import os
@@ -122,7 +134,7 @@ def main() -> None:
     results = run_batch(prompts, args.model_url, args.log_every, args.retries)
 
     with open(args.output, "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+
 
 
 if __name__ == "__main__":
