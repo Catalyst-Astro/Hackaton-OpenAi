@@ -1,0 +1,252 @@
+[
+  {
+    "id": "math_001",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de aplicar la regla de L'Hôpital?"
+  },
+  {
+    "id": "math_002",
+    "domain": "math",
+    "prompt": "Explica paso a paso explicar el teorema de Pitágoras."
+  },
+  {
+    "id": "math_003",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre encontrar la derivada de sin(x)?"
+  },
+  {
+    "id": "math_004",
+    "domain": "math",
+    "prompt": "¿Cómo se demuestra que resolver la ecuación x^2 - 4x + 4 = 0?"
+  },
+  {
+    "id": "math_005",
+    "domain": "math",
+    "prompt": "¿Cómo se demuestra que demostrar que sqrt(2) es irracional?"
+  },
+  {
+    "id": "math_006",
+    "domain": "math",
+    "prompt": "Explica paso a paso demostrar la conjetura de Goldbach."
+  },
+  {
+    "id": "math_007",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre problema de los puentes de Königsberg?"
+  },
+  {
+    "id": "math_008",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre aplicar la regla de L'Hôpital?"
+  },
+  {
+    "id": "math_009",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de explicar el teorema de Pitágoras?"
+  },
+  {
+    "id": "math_010",
+    "domain": "math",
+    "prompt": "¿Cómo se demuestra que analizar series de Fourier en señales?"
+  },
+  {
+    "id": "math_011",
+    "domain": "math",
+    "prompt": "Resuelve: analizar series de Fourier en señales."
+  },
+  {
+    "id": "math_012",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de demostrar que sqrt(2) es irracional?"
+  },
+  {
+    "id": "math_013",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de resolver la ecuación x^2 - 4x + 4 = 0?"
+  },
+  {
+    "id": "math_014",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: problema de los puentes de Königsberg."
+  },
+  {
+    "id": "math_015",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de demostrar la conjetura de Goldbach?"
+  },
+  {
+    "id": "math_016",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: analizar series de Fourier en señales."
+  },
+  {
+    "id": "math_017",
+    "domain": "math",
+    "prompt": "Resuelve: explicar el teorema de Pitágoras."
+  },
+  {
+    "id": "math_018",
+    "domain": "math",
+    "prompt": "Explica paso a paso resolver la ecuación x^2 - 4x + 4 = 0."
+  },
+  {
+    "id": "math_019",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre demostrar la conjetura de Goldbach?"
+  },
+  {
+    "id": "math_020",
+    "domain": "math",
+    "prompt": "Resuelve: encontrar la derivada de sin(x)."
+  },
+  {
+    "id": "math_021",
+    "domain": "math",
+    "prompt": "Explica paso a paso analizar series de Fourier en señales."
+  },
+  {
+    "id": "math_022",
+    "domain": "math",
+    "prompt": "¿Cómo se demuestra que demostrar la conjetura de Goldbach?"
+  },
+  {
+    "id": "math_023",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre analizar series de Fourier en señales?"
+  },
+  {
+    "id": "math_024",
+    "domain": "math",
+    "prompt": "Explica paso a paso calcular la integral de x^2 dx."
+  },
+  {
+    "id": "math_025",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: resolver la ecuación x^2 - 4x + 4 = 0."
+  },
+  {
+    "id": "math_026",
+    "domain": "math",
+    "prompt": "Explica paso a paso encontrar la derivada de sin(x)."
+  },
+  {
+    "id": "math_027",
+    "domain": "math",
+    "prompt": "Resuelve: demostrar la conjetura de Goldbach."
+  },
+  {
+    "id": "math_028",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: encontrar la derivada de sin(x)."
+  },
+  {
+    "id": "math_029",
+    "domain": "math",
+    "prompt": "Explica paso a paso problema de los puentes de Königsberg."
+  },
+  {
+    "id": "math_030",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre calcular la integral de x^2 dx?"
+  },
+  {
+    "id": "math_031",
+    "domain": "math",
+    "prompt": "¿Cómo se demuestra que aplicar la regla de L'Hôpital?"
+  },
+  {
+    "id": "math_032",
+    "domain": "math",
+    "prompt": "Explica paso a paso aplicar la regla de L'Hôpital."
+  },
+  {
+    "id": "math_033",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de analizar series de Fourier en señales?"
+  },
+  {
+    "id": "math_034",
+    "domain": "math",
+    "prompt": "Explica paso a paso demostrar que sqrt(2) es irracional."
+  },
+  {
+    "id": "math_035",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: aplicar la regla de L'Hôpital."
+  },
+  {
+    "id": "math_036",
+    "domain": "math",
+    "prompt": "¿Cómo se demuestra que calcular la integral de x^2 dx?"
+  },
+  {
+    "id": "math_037",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de problema de los puentes de Königsberg?"
+  },
+  {
+    "id": "math_038",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: calcular la integral de x^2 dx."
+  },
+  {
+    "id": "math_039",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de calcular la integral de x^2 dx?"
+  },
+  {
+    "id": "math_040",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre explicar el teorema de Pitágoras?"
+  },
+  {
+    "id": "math_041",
+    "domain": "math",
+    "prompt": "¿Cómo se demuestra que explicar el teorema de Pitágoras?"
+  },
+  {
+    "id": "math_042",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: demostrar que sqrt(2) es irracional."
+  },
+  {
+    "id": "math_043",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre resolver un sistema lineal de dos ecuaciones?"
+  },
+  {
+    "id": "math_044",
+    "domain": "math",
+    "prompt": "Resuelve: calcular la integral de x^2 dx."
+  },
+  {
+    "id": "math_045",
+    "domain": "math",
+    "prompt": "Explica paso a paso resolver un sistema lineal de dos ecuaciones."
+  },
+  {
+    "id": "math_046",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de resolver un sistema lineal de dos ecuaciones?"
+  },
+  {
+    "id": "math_047",
+    "domain": "math",
+    "prompt": "Resuelve: problema de los puentes de Königsberg."
+  },
+  {
+    "id": "math_048",
+    "domain": "math",
+    "prompt": "¿Cuál es el resultado de encontrar la derivada de sin(x)?"
+  },
+  {
+    "id": "math_049",
+    "domain": "math",
+    "prompt": "Basado en TruthfulQA, ¿qué se sabe sobre resolver la ecuación x^2 - 4x + 4 = 0?"
+  },
+  {
+    "id": "math_050",
+    "domain": "math",
+    "prompt": "Según MMLU, responde: explicar el teorema de Pitágoras."
+  }
+]

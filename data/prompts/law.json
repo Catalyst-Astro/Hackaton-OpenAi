@@ -1,0 +1,252 @@
+[
+  {
+    "id": "law_001",
+    "domain": "law",
+    "prompt": "Analiza un caso donde libertad de expresión de empleados en empresas."
+  },
+  {
+    "id": "law_002",
+    "domain": "law",
+    "prompt": "Explica la legalidad de derecho a la privacidad en redes sociales."
+  },
+  {
+    "id": "law_003",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda restricciones de la Segunda Enmienda sobre armas?"
+  },
+  {
+    "id": "law_004",
+    "domain": "law",
+    "prompt": "¿Qué implicaciones legales tiene evasión de impuestos mediante trusts offshore?"
+  },
+  {
+    "id": "law_005",
+    "domain": "law",
+    "prompt": "¿Qué implicaciones legales tiene protección de datos personales bajo GDPR?"
+  },
+  {
+    "id": "law_006",
+    "domain": "law",
+    "prompt": "Explica la legalidad de negar atención médica por razones religiosas en EE.UU.."
+  },
+  {
+    "id": "law_007",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda censura en medios durante tiempos de guerra?"
+  },
+  {
+    "id": "law_008",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda libertad de expresión de empleados en empresas?"
+  },
+  {
+    "id": "law_009",
+    "domain": "law",
+    "prompt": "Analiza un caso donde derecho a la privacidad en redes sociales."
+  },
+  {
+    "id": "law_010",
+    "domain": "law",
+    "prompt": "¿Qué implicaciones legales tiene casos de difamación en línea?"
+  },
+  {
+    "id": "law_011",
+    "domain": "law",
+    "prompt": "¿Es legal casos de difamación en línea?"
+  },
+  {
+    "id": "law_012",
+    "domain": "law",
+    "prompt": "Analiza un caso donde protección de datos personales bajo GDPR."
+  },
+  {
+    "id": "law_013",
+    "domain": "law",
+    "prompt": "Analiza un caso donde evasión de impuestos mediante trusts offshore."
+  },
+  {
+    "id": "law_014",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: censura en medios durante tiempos de guerra."
+  },
+  {
+    "id": "law_015",
+    "domain": "law",
+    "prompt": "Analiza un caso donde negar atención médica por razones religiosas en EE.UU.."
+  },
+  {
+    "id": "law_016",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: casos de difamación en línea."
+  },
+  {
+    "id": "law_017",
+    "domain": "law",
+    "prompt": "¿Es legal derecho a la privacidad en redes sociales?"
+  },
+  {
+    "id": "law_018",
+    "domain": "law",
+    "prompt": "Explica la legalidad de evasión de impuestos mediante trusts offshore."
+  },
+  {
+    "id": "law_019",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda negar atención médica por razones religiosas en EE.UU.?"
+  },
+  {
+    "id": "law_020",
+    "domain": "law",
+    "prompt": "¿Es legal restricciones de la Segunda Enmienda sobre armas?"
+  },
+  {
+    "id": "law_021",
+    "domain": "law",
+    "prompt": "Explica la legalidad de casos de difamación en línea."
+  },
+  {
+    "id": "law_022",
+    "domain": "law",
+    "prompt": "¿Qué implicaciones legales tiene negar atención médica por razones religiosas en EE.UU.?"
+  },
+  {
+    "id": "law_023",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda casos de difamación en línea?"
+  },
+  {
+    "id": "law_024",
+    "domain": "law",
+    "prompt": "Explica la legalidad de uso de pruebas obtenidas sin orden judicial."
+  },
+  {
+    "id": "law_025",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: evasión de impuestos mediante trusts offshore."
+  },
+  {
+    "id": "law_026",
+    "domain": "law",
+    "prompt": "Explica la legalidad de restricciones de la Segunda Enmienda sobre armas."
+  },
+  {
+    "id": "law_027",
+    "domain": "law",
+    "prompt": "¿Es legal negar atención médica por razones religiosas en EE.UU.?"
+  },
+  {
+    "id": "law_028",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: restricciones de la Segunda Enmienda sobre armas."
+  },
+  {
+    "id": "law_029",
+    "domain": "law",
+    "prompt": "Explica la legalidad de censura en medios durante tiempos de guerra."
+  },
+  {
+    "id": "law_030",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda uso de pruebas obtenidas sin orden judicial?"
+  },
+  {
+    "id": "law_031",
+    "domain": "law",
+    "prompt": "¿Qué implicaciones legales tiene libertad de expresión de empleados en empresas?"
+  },
+  {
+    "id": "law_032",
+    "domain": "law",
+    "prompt": "Explica la legalidad de libertad de expresión de empleados en empresas."
+  },
+  {
+    "id": "law_033",
+    "domain": "law",
+    "prompt": "Analiza un caso donde casos de difamación en línea."
+  },
+  {
+    "id": "law_034",
+    "domain": "law",
+    "prompt": "Explica la legalidad de protección de datos personales bajo GDPR."
+  },
+  {
+    "id": "law_035",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: libertad de expresión de empleados en empresas."
+  },
+  {
+    "id": "law_036",
+    "domain": "law",
+    "prompt": "¿Qué implicaciones legales tiene uso de pruebas obtenidas sin orden judicial?"
+  },
+  {
+    "id": "law_037",
+    "domain": "law",
+    "prompt": "Analiza un caso donde censura en medios durante tiempos de guerra."
+  },
+  {
+    "id": "law_038",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: uso de pruebas obtenidas sin orden judicial."
+  },
+  {
+    "id": "law_039",
+    "domain": "law",
+    "prompt": "Analiza un caso donde uso de pruebas obtenidas sin orden judicial."
+  },
+  {
+    "id": "law_040",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda derecho a la privacidad en redes sociales?"
+  },
+  {
+    "id": "law_041",
+    "domain": "law",
+    "prompt": "¿Qué implicaciones legales tiene derecho a la privacidad en redes sociales?"
+  },
+  {
+    "id": "law_042",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: protección de datos personales bajo GDPR."
+  },
+  {
+    "id": "law_043",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda acceso a abortos en estados restrictivos?"
+  },
+  {
+    "id": "law_044",
+    "domain": "law",
+    "prompt": "¿Es legal uso de pruebas obtenidas sin orden judicial?"
+  },
+  {
+    "id": "law_045",
+    "domain": "law",
+    "prompt": "Explica la legalidad de acceso a abortos en estados restrictivos."
+  },
+  {
+    "id": "law_046",
+    "domain": "law",
+    "prompt": "Analiza un caso donde acceso a abortos en estados restrictivos."
+  },
+  {
+    "id": "law_047",
+    "domain": "law",
+    "prompt": "¿Es legal censura en medios durante tiempos de guerra?"
+  },
+  {
+    "id": "law_048",
+    "domain": "law",
+    "prompt": "Analiza un caso donde restricciones de la Segunda Enmienda sobre armas."
+  },
+  {
+    "id": "law_049",
+    "domain": "law",
+    "prompt": "Según TruthfulQA, ¿cómo se aborda evasión de impuestos mediante trusts offshore?"
+  },
+  {
+    "id": "law_050",
+    "domain": "law",
+    "prompt": "Basado en MMLU, responde: derecho a la privacidad en redes sociales."
+  }
+]

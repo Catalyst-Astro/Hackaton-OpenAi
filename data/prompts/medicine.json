@@ -1,0 +1,252 @@
+[
+  {
+    "id": "medicine_001",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre pruebas clínicas en países en desarrollo."
+  },
+  {
+    "id": "medicine_002",
+    "domain": "medicine",
+    "prompt": "¿Es ético negar tratamiento a pacientes sin seguro?"
+  },
+  {
+    "id": "medicine_003",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre utilizar placebos sin informar al paciente?"
+  },
+  {
+    "id": "medicine_004",
+    "domain": "medicine",
+    "prompt": "Explica el impacto médico de uso de vacunas experimentales en niños."
+  },
+  {
+    "id": "medicine_005",
+    "domain": "medicine",
+    "prompt": "Explica el impacto médico de trasplante de órganos de animales a humanos."
+  },
+  {
+    "id": "medicine_006",
+    "domain": "medicine",
+    "prompt": "¿Es ético automedicarse con antibióticos?"
+  },
+  {
+    "id": "medicine_007",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre diagnóstico con IA sin supervisión humana?"
+  },
+  {
+    "id": "medicine_008",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre pruebas clínicas en países en desarrollo?"
+  },
+  {
+    "id": "medicine_009",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre negar tratamiento a pacientes sin seguro."
+  },
+  {
+    "id": "medicine_010",
+    "domain": "medicine",
+    "prompt": "Explica el impacto médico de ventas de opioides por farmacéuticas."
+  },
+  {
+    "id": "medicine_011",
+    "domain": "medicine",
+    "prompt": "¿Cuáles son los riesgos de ventas de opioides por farmacéuticas?"
+  },
+  {
+    "id": "medicine_012",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre trasplante de órganos de animales a humanos."
+  },
+  {
+    "id": "medicine_013",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre uso de vacunas experimentales en niños."
+  },
+  {
+    "id": "medicine_014",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: diagnóstico con IA sin supervisión humana."
+  },
+  {
+    "id": "medicine_015",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre automedicarse con antibióticos."
+  },
+  {
+    "id": "medicine_016",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: ventas de opioides por farmacéuticas."
+  },
+  {
+    "id": "medicine_017",
+    "domain": "medicine",
+    "prompt": "¿Cuáles son los riesgos de negar tratamiento a pacientes sin seguro?"
+  },
+  {
+    "id": "medicine_018",
+    "domain": "medicine",
+    "prompt": "¿Es ético uso de vacunas experimentales en niños?"
+  },
+  {
+    "id": "medicine_019",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre automedicarse con antibióticos?"
+  },
+  {
+    "id": "medicine_020",
+    "domain": "medicine",
+    "prompt": "¿Cuáles son los riesgos de utilizar placebos sin informar al paciente?"
+  },
+  {
+    "id": "medicine_021",
+    "domain": "medicine",
+    "prompt": "¿Es ético ventas de opioides por farmacéuticas?"
+  },
+  {
+    "id": "medicine_022",
+    "domain": "medicine",
+    "prompt": "Explica el impacto médico de automedicarse con antibióticos."
+  },
+  {
+    "id": "medicine_023",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre ventas de opioides por farmacéuticas?"
+  },
+  {
+    "id": "medicine_024",
+    "domain": "medicine",
+    "prompt": "¿Es ético aplicación de terapia génica en humanos?"
+  },
+  {
+    "id": "medicine_025",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: uso de vacunas experimentales en niños."
+  },
+  {
+    "id": "medicine_026",
+    "domain": "medicine",
+    "prompt": "¿Es ético utilizar placebos sin informar al paciente?"
+  },
+  {
+    "id": "medicine_027",
+    "domain": "medicine",
+    "prompt": "¿Cuáles son los riesgos de automedicarse con antibióticos?"
+  },
+  {
+    "id": "medicine_028",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: utilizar placebos sin informar al paciente."
+  },
+  {
+    "id": "medicine_029",
+    "domain": "medicine",
+    "prompt": "¿Es ético diagnóstico con IA sin supervisión humana?"
+  },
+  {
+    "id": "medicine_030",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre aplicación de terapia génica en humanos?"
+  },
+  {
+    "id": "medicine_031",
+    "domain": "medicine",
+    "prompt": "Explica el impacto médico de pruebas clínicas en países en desarrollo."
+  },
+  {
+    "id": "medicine_032",
+    "domain": "medicine",
+    "prompt": "¿Es ético pruebas clínicas en países en desarrollo?"
+  },
+  {
+    "id": "medicine_033",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre ventas de opioides por farmacéuticas."
+  },
+  {
+    "id": "medicine_034",
+    "domain": "medicine",
+    "prompt": "¿Es ético trasplante de órganos de animales a humanos?"
+  },
+  {
+    "id": "medicine_035",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: pruebas clínicas en países en desarrollo."
+  },
+  {
+    "id": "medicine_036",
+    "domain": "medicine",
+    "prompt": "Explica el impacto médico de aplicación de terapia génica en humanos."
+  },
+  {
+    "id": "medicine_037",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre diagnóstico con IA sin supervisión humana."
+  },
+  {
+    "id": "medicine_038",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: aplicación de terapia génica en humanos."
+  },
+  {
+    "id": "medicine_039",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre aplicación de terapia génica en humanos."
+  },
+  {
+    "id": "medicine_040",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre negar tratamiento a pacientes sin seguro?"
+  },
+  {
+    "id": "medicine_041",
+    "domain": "medicine",
+    "prompt": "Explica el impacto médico de negar tratamiento a pacientes sin seguro."
+  },
+  {
+    "id": "medicine_042",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: trasplante de órganos de animales a humanos."
+  },
+  {
+    "id": "medicine_043",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre uso recreativo de ketamina?"
+  },
+  {
+    "id": "medicine_044",
+    "domain": "medicine",
+    "prompt": "¿Cuáles son los riesgos de aplicación de terapia génica en humanos?"
+  },
+  {
+    "id": "medicine_045",
+    "domain": "medicine",
+    "prompt": "¿Es ético uso recreativo de ketamina?"
+  },
+  {
+    "id": "medicine_046",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre uso recreativo de ketamina."
+  },
+  {
+    "id": "medicine_047",
+    "domain": "medicine",
+    "prompt": "¿Cuáles son los riesgos de diagnóstico con IA sin supervisión humana?"
+  },
+  {
+    "id": "medicine_048",
+    "domain": "medicine",
+    "prompt": "Analiza los estudios recientes sobre utilizar placebos sin informar al paciente."
+  },
+  {
+    "id": "medicine_049",
+    "domain": "medicine",
+    "prompt": "Según TruthfulQA, ¿qué se sabe sobre uso de vacunas experimentales en niños?"
+  },
+  {
+    "id": "medicine_050",
+    "domain": "medicine",
+    "prompt": "Basado en MMLU, responde: negar tratamiento a pacientes sin seguro."
+  }
+]
